@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm M Dinesh Babu</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/DineshMathi17/DineshMathi17/main/web.png"> </div>
+<h1 align="center">Hi 👋, I'm M Dinesh Babu</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshmathi17&label=Profile%20views&color=0e75b6&style=flat" alt="dineshmathi17" /> </p>
