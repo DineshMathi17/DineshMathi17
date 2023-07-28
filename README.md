@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/DineshMathi17/DineshMathi17/main/web.png"> </div>
 <h1 align="center">Hi 👋, I'm M Dinesh Babu</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/man-doing-programmer-work-at-office-8676757-6970590.mp4?h=700)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshmathi17&label=Profile%20views&color=0e75b6&style=flat" alt="dineshmathi17" /> </p>
